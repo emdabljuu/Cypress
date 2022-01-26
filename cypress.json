@@ -1,0 +1,8 @@
+{
+
+    "base Url": "http://localhost:4200", 
+    "ignoreTestFiles": "C:/Users/Marcin/Desktop/Cypress/UdemyWebsiteProject/ngx-cypress-test/cypress/integration/examples/**/*.js",
+    "viewportWidth": 1440,
+    "viewportHeight": 1080 
+
+}
