@@ -83,7 +83,7 @@ export class NavigationPage {
     tablesAndDataSmartTable () {
         displayList('Tables & Data')
         cy.contains('Smart Table').click()
-        compareUrl('smarttable')
+        compareUrl('smart-table')
     }
 
     tablesAndDataTreeGrid () {
